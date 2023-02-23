@@ -536,8 +536,10 @@ footer img{
        margin-left: -9%;
    }
    .navigation li{
+    display: flex;
+    justify-content: center;
        list-style: none;
-           padding: 1% 1.5%;
+           padding: 4s% 1.5%;
            font-size: xlarge;
    }
    .menu_icon{
@@ -717,6 +719,7 @@ footer img{
            display: flex;
        }
        .navigation li{
+        
            list-style: none;
                padding: 1% 2.6%;
                font-size: xlarge;
