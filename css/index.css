@@ -67,8 +67,8 @@ header h2{
     top:1px;
 }
 .line{
-    height: 2px;
-    width: 10px;
+    height: 3px;
+    width: 18px;
     margin: 2px 2px;
     background-color: black;
 }
@@ -554,7 +554,7 @@ footer img{
     pointer-events: none;
 }
 .nav_res{
-    height: 22px;
+    height: 28px;
 }
 
    /*BANNER*/
@@ -721,23 +721,7 @@ footer img{
                padding: 1% 2.6%;
                font-size: xlarge;
        }
-       .menu_icon{
-        display: block;
-        position: absolute;
-        cursor: pointer;
-        right: 1%;
-        top: 3px;
-        background: darkorange;
-        border: none;
-    }
-    .visible{
-        opacity: 0%;
-        pointer-events: none;
-    }
-    .nav_res{
-        height: 72px;
-    }
-
+   
        /*BANNER*/
        .section_one {
            height: 20vh;
